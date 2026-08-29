@@ -1,3 +1,12 @@
+/*here are links to some of the example sketches and libraries I used
+https://easyelecmodule.com/a-complete-guide-to-the-inmp441-i2s-microphone/
+https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization
+https://registry.platformio.org/libraries/bblanchon/ArduinoJson
+https://github.com/arduino-libraries/Audio
+https://randomnerdtutorials.com/esp8266-nodemcu-hc-sr04-ultrasonic-arduino/
+https://github.com/espressif/arduino-esp32/blob/master/libraries/WebServer/examples/UploadHugeFile/UploadHugeFile.ino
+*/
+
 #include <Arduino.h>
 #include "SPIFFS.h"
 
